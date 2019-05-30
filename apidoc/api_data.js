@@ -255,7 +255,7 @@ define({ "api": [
             "type": "Usuario",
             "optional": false,
             "field": "data",
-            "description": ""
+            "description": "Usuario creado correctamente"
           }
         ]
       }
